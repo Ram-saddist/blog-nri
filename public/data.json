@@ -1,0 +1,29 @@
+{
+    "posts": [
+      {
+        "id": 1,
+        "title": "My First Blog Post",
+        "date": "2024-08-26",
+        "summary": "This is the summary of my first blog post.",
+        "content": "This is the full content of my first blog post."
+      },
+      {
+        "id": 2,
+        "title": "Another Day, Another Post",
+        "date": "2024-08-25",
+        "summary": "Here's a brief summary of another blog post.",
+        "content": "Here's the detailed content of another blog post."
+      }
+    ],
+    "about": {
+      "name": "John Doe",
+      "bio": "A passionate developer and blogger.",
+      "photo": "profile.jpg",
+      "social": {
+        "linkedin": "https://www.linkedin.com/in/johndoe/",
+        "twitter": "https://twitter.com/johndoe",
+        "github": "https://github.com/johndoe"
+      }
+    }
+  }
+  
